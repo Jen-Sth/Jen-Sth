@@ -6,8 +6,7 @@ Currently focused on growing my skills to become a data professional and AI engi
 ---
 
 ## 🌱 What I'm Learning
-- 🚀 Advanced machine learning and deep learning techniques  
-- 📱 Fullstack web & mobile development (Flutter, Django)  
+- 🚀 Advanced machine learning and deep learning techniques   
 - 🔗 Blockchain fundamentals and smart contracts  
 - ☁️ Cloud platforms and data engineering  
 
